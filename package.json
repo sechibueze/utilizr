@@ -1,0 +1,15 @@
+{
+  "name": "utilizr",
+  "version": "1.0.0",
+  "description": "Utilizr is a JavaScript module for completing common, simple yet frequently required tasks associated with software development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Utilizr",
+    "tasks"
+  ],
+  "author": "Samuel Chibueze",
+  "license": "MIT"
+}
